@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Agent AI Travel Planner",
+  "description": "Autonomous multi-agent system coordinating specialized AI agents to research, optimize budget, validate constraints, and generate personalized travel itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
